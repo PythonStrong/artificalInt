@@ -1,0 +1,10 @@
+import logo from './logo.png'
+import HeroIMage from './Hero.png'
+import MarqueLogo from './MarqueLogo.png'
+import MainFirstImage from './MainFirstImage.png'
+import MainSecondImage from './MainSecondImage.png'
+import MainThirdImage from './MainThirdImage.png'
+import MarqueLogoFirst from './MarqueLogoFirst.png'
+import MarqueLogoSecond from './MarqueLogoSecond.png'
+import MarqueLogoThird from './MarqueLogoThird.png'
+export{logo, HeroIMage, MarqueLogo, MainFirstImage,MarqueLogoSecond  ,MainSecondImage, MainThirdImage, MarqueLogoFirst, MarqueLogoThird}

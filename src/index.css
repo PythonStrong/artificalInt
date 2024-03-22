@@ -1,0 +1,14 @@
+body{
+    background:#09111E !important;
+    color: white !important;
+}
+.card{
+    background: rgba(255, 255, 255, 0.072);
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+.btn:hover{
+    background: blueviolet;
+    transform: translateY(-10px);
+}
